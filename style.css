@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    margin: 0px;
+}
+
+.cabecalho {
+    background-image: url("https://thumbs.dreamstime.com/b/black-meshy-metal-24807651.jpg");
+    background-size: cover;
+    height: 350px;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    padding-top: 6.7rem;
+    margin: auto;
+    display: flex;
+    height: 94px;
+    background-position: 50% 50%;
+}
