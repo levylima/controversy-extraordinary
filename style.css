@@ -17,3 +17,22 @@
     height: 94px;
     background-position: 50% 50%;
 }
+.nav-home-about {
+    display: flex;
+    list-style: none;
+    background-color: rgb(8, 8, 8);
+    background-position: 50% 50%;
+    width: 80%;
+    margin: auto;
+    
+}
+li {
+    background-color: rgb(8, 8, 8);
+    color: rgb(221, 221, 221);
+    margin: auto;
+    padding: 20px;
+    background-position: 50%;
+}
+.fundo-bible {
+    background-image: url(https://th.bing.com/th/id/R.68b4696750e5298ccf5c714d0146247a?rik=ONwlzAIEePQoyQ&riu=http%3a%2f%2f2.bp.blogspot.com%2f-4Jz--jTFoSs%2fUFTU9wRIiwI%2fAAAAAAAAALk%2foSwBigj9vKo%2fs1600%2fBIBLIA2.jpg&ehk=84D2ExAehZ%2bLtlBF6zLY00tGouXZLi3jFNgn3HKXOXg%3d&risl=&pid=ImgRaw&r=0);
+}
