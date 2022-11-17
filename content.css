@@ -8,6 +8,7 @@
     background-size: cover;
     height: 350px;
     background-repeat: no-repeat;
+    width: 104%;
 }
 
 .logo {
@@ -62,7 +63,6 @@ body {
 }
 h1 {
     font-size: 40px;
-    /* font-family: 'Raleway', 'Open Sans', Georgia, sans-serif; */
 }
 
 .read {
